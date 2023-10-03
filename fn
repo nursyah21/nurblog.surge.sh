@@ -9,11 +9,14 @@ case $1 in
   "serve")
    blag serve
    ;;
+  "git")
+   echo "save to github"
+   git add .
+   git commit -m "update"
+   git push
+   ;;
   "publish")
    echo "publish"
-   git add .
-   git commit -m "update and publish"
-   git push
    blag build
    surge content/ --domain https://nurblog.surge.sh
    ;;
@@ -27,6 +30,7 @@ case $1 in
    echo "command:"
    echo ". fn new <name>"
    echo ". fn serve"
+   echo ". fn git"
    echo ". fn publish"
    echo ". fn list"
    ;;
