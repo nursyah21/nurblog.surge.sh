@@ -1,0 +1,33 @@
+#!/bin/bash
+
+case $1 in
+  "new")
+   echo "create new"
+   cp content/template "content/$2.md"
+   nano "content/$2.md"
+   ;;
+  "serve")
+   blag serve
+   ;;
+  "publish")
+   echo "publish"
+   git add .
+   git commit -m "update and publish"
+   git push
+   blag build
+   surge content/ --domain https://nurblog.surge.sh
+   ;;
+  "list")
+   ls content
+   echo "write name file to open:"
+   read file
+   nano "content/$file.md"
+   ;;
+  *)
+   echo "command:"
+   echo ". fn new <name>"
+   echo ". fn serve"
+   echo ". fn publish"
+   echo ". fn list"
+   ;;
+esac

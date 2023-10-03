@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My little blog</title><link href="https://example.com/" rel="alternate"></link><link href="https://example.com/atom.xml" rel="self"></link><id>https://example.com/</id><updated>2023-10-03T20:47:00+07:00</updated><subtitle>nursyah's blog</subtitle><entry><title>apa ya?</title><link href="https://example.com/apaya.html" rel="alternate"></link><published>2023-10-03T20:47:00+07:00</published><updated>2023-10-03T20:47:00+07:00</updated><author><name>nursyah</name></author><id>tag:example.com,2023-10-03:/apaya.html</id><summary type="html">masih bingung mau nulis apa</summary><content type="html">&lt;p&gt;tidak ada yang benar tidak ada yang salah,
+sesuai judulnya sebenarnya ini saya masih bingung
+mau menulis apa.&lt;/p&gt;
+&lt;p&gt;mungkin sedikit curhat sepertinya tidak masalah,
+saya baru sadar ternyata banyak sekali hal yg 
+mahal namun secara bersamaan banyak juga yg murah&lt;/p&gt;
+&lt;p&gt;sepertinya sampai disini saja, saya rasa sudah cukup&lt;/p&gt;</content></entry></feed>
