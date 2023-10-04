@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>My little blog</title><link href="https://example.com/" rel="alternate"></link><link href="https://example.com/atom.xml" rel="self"></link><id>https://example.com/</id><updated>2023-10-03T20:47:00+07:00</updated><subtitle>nursyah's blog</subtitle><entry><title>apa ya?</title><link href="https://example.com/apaya.html" rel="alternate"></link><published>2023-10-03T20:47:00+07:00</published><updated>2023-10-03T20:47:00+07:00</updated><author><name>nursyah</name></author><id>tag:example.com,2023-10-03:/apaya.html</id><summary type="html">masih bingung mau nulis apa</summary><content type="html">&lt;p&gt;tidak ada yang benar tidak ada yang salah,
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My little blog</title><link href="https://example.com/" rel="alternate"></link><link href="https://example.com/atom.xml" rel="self"></link><id>https://example.com/</id><updated>2023-10-04T19:53:00+07:00</updated><subtitle>nursyah's blog</subtitle><entry><title>waktu itu terlalu cepat</title><link href="https://example.com/waktu-cepat-banget.html" rel="alternate"></link><published>2023-10-04T19:53:00+07:00</published><updated>2023-10-04T19:53:00+07:00</updated><author><name>nursyah</name></author><id>tag:example.com,2023-10-04:/waktu-cepat-banget.html</id><summary type="html">kenapa waktu terasa berlalu sangat cepat</summary><content type="html">&lt;p&gt;akhir-akhir ini seperti baru saja aku ingat kejadian
+kemarin, ya mungkin ga jauh dari kegiatan aku
+makan di swk (sentra wisata kuliner) dekat kampusku.&lt;/p&gt;
+&lt;p&gt;dan hal yang sama kulakuin juga hari ini makan
+di swk dekat kampus, kalo dipikir-pikir ga terlalu buruk&lt;/p&gt;
+&lt;p&gt;namun disaat bersamaan aku sadar bahwa waktu memang sangatlah berharga
+anda bisa saja mengumpulkan banyak uang dengan mencurahkan waktu anda dari pagi sampai malam&lt;/p&gt;
+&lt;p&gt;namun uang yang anda hasilkan tidak bisa membeli waktu yang telah anda gunakan
+untuk mengumpulkan uang tersebut&lt;/p&gt;
+&lt;p&gt;sehingga waktu sangatlah berharga daripada uang, maka hargailah waktumu nikmati semua momen yang ada&lt;/p&gt;</content></entry><entry><title>apa ya?</title><link href="https://example.com/apaya.html" rel="alternate"></link><published>2023-10-03T20:47:00+07:00</published><updated>2023-10-03T20:47:00+07:00</updated><author><name>nursyah</name></author><id>tag:example.com,2023-10-03:/apaya.html</id><summary type="html">masih bingung mau nulis apa</summary><content type="html">&lt;p&gt;tidak ada yang benar tidak ada yang salah,
 sesuai judulnya sebenarnya ini saya masih bingung
 mau menulis apa.&lt;/p&gt;
 &lt;p&gt;mungkin sedikit curhat sepertinya tidak masalah,

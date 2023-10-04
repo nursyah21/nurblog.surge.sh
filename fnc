@@ -28,10 +28,10 @@ case $1 in
    ;;
   *)
    echo "command:"
-   echo ". fn new <name>"
-   echo ". fn serve"
-   echo ". fn git"
-   echo ". fn publish"
-   echo ". fn list"
+   echo ". fnc new <name>"
+   echo ". fnc serve"
+   echo ". fnc git"
+   echo ". fnc publish"
+   echo ". fnc list"
    ;;
 esac
